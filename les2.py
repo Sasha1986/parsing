@@ -3,7 +3,7 @@ from pathlib import Path
 import urljoin
 import bs4
 import pymongo
-import datetime
+
 
 MONTHS = {
     "янв": 1,
